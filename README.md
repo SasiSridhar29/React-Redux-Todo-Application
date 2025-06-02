@@ -5,7 +5,8 @@
 ---
 
 ## Features
-
+- Key features include task filtering, completion updates, and bulk actions, demonstrating my expertise in modern front-end development and 
+creating scalable, user-centric applications.
 - To-do log list view
 - delete, edit, log a new task to complete.
 
